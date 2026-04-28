@@ -1,5 +1,5 @@
 # Sven
-[LinkedIn]https://www.linkedin.com/in/svenhansenza/)
+[LinkedIn](https://www.linkedin.com/in/svenhansenza/)
 Data and AI engineering leader · London · building things on the side
 
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-0C447C?style=flat&labelColor=E6F1FB&color=E6F1FB&logoColor=0C447C)
