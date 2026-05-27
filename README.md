@@ -11,7 +11,7 @@ Data and AI engineering leader · London · building things on the side
 ![Automation](https://img.shields.io/badge/Automation-633806?style=flat&labelColor=FAEEDA&color=FAEEDA)
 ![London](https://img.shields.io/badge/London-444441?style=flat&labelColor=F1EFE8&color=F1EFE8)
 
-I lead data engineering teams building medallion architecture pipelines on Azure — from ingestion to Gold-layer reporting. Outside work I build small tools and experiment with technology — usually involving AI, Python and Automation. (If I'm lucky it would include music too.)
+Data & AI engineering. Lakehouse patterns, LLM pipelines, agentic workflows, Azure + AWS. Building practical-ai.space on the side. Usually Python. Sometimes music.
 
 ---
 
